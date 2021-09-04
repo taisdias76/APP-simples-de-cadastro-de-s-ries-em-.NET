@@ -1,0 +1,16 @@
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.csproj.AssemblyReference.cache
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.AssemblyInfoInputs.cache
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.AssemblyInfo.cs
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.csproj.CoreCompileInputs.cache
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.exe
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.deps.json
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.runtimeconfig.json
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.runtimeconfig.dev.json
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.dll
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\ref\series.dll
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\bin\Debug\net5.0\series.pdb
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.dll
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\ref\series.dll
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.pdb
+C:\Users\tatah\OneDrive\Área de Trabalho\Tais\Linguagens de Programação\Programação C#\bootcamp-dio\series\obj\Debug\net5.0\series.genruntimeconfig.cache
